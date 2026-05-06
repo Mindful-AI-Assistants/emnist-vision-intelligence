@@ -7,8 +7,7 @@
 
 
 #  <p align="center"> 1- 🧠 [Machine Learning]() / [EMNIST Vision Intelligence Project]()
-
-Deep Learning Pipeline for Handwritten Character Recognition with PyTorch and Streamlit
+### <p align="center"> Deep Learning Pipeline for Handwritten Character Recognition with PyTorch and Streamlit
 
 
 <br><br>
