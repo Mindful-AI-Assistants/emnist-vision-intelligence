@@ -18,7 +18,7 @@
 
 <!-- ========= START MAIN BADGE ========= -->
 <p align="center" style="margin: 0;">
-  <a href="" rel="noopener noreferrer">
+  <a href="https://identificados-de-letras-e-numeros.streamlit.app/" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Streamlit%20Interactive-EMNIST%20Vision%20Intelligence%20Dashboard-0f172a?style=for-the-badge&logo=streamlit&logoColor=white" 
       alt="Streamlit Interactive – EMNIST Vision Intelligence Dashboard"
