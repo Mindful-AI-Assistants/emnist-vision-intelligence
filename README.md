@@ -40,7 +40,7 @@
 
  <a href="#" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Model%20Analysis-Neural%20Network%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
+      src="https://github.com/Mindful-AI-Assistants/ai-ml-emnist-vision-intelligence-pproject/blob/5119adc130f94eff7ef70de7a90ab8d291be764d/Model%20Analysis.pdf" 
       alt="Neural Network Analysis Report"
       style="height: 32px; width: auto;"
     />
