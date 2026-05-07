@@ -30,7 +30,7 @@
 <!-- ========= START SECONDARY BADGES ========= -->
 <p align="center" style="margin: 0;">
   
-  <a href="" rel="noopener noreferrer">
+  <a href="https://www.canva.com/design/DAHI8GmXZP8/Hxi6FpvjeKvf3em_iXlp2Q/edit" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Beautiful.ai-Deep%20Learning%20Presentation-0f766e?style=for-the-badge&logo=beautifulsoup&logoColor=white" 
       alt="Beautiful.ai Deep Learning Presentation"
