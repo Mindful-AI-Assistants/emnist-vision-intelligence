@@ -50,6 +50,25 @@
 <br><br><br><br>
 <!-- ========= END BADGE ========= -->
 
+<!-- =========  START PUC HEADER GIF ========= -->
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+
+
+<br><br><br><br>
+<!-- =========  END PUC HEADER GIF ========= -->
+
+
+<!-- ========= START SPONSORT BADGE ========= -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+<br><br><br>
+<!-- ========= END SPONSORTBADGE ========= -->
+
 
 
 <!-- ======================================= Start nstitucional INFO ===========================================  -->
@@ -70,12 +89,6 @@
 
 
 
-<!-- ========= START SPONSORT BADGE ========= -->
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-<br><br>
-<!-- ========= END SPONSORTBADGE ========= -->
 
 
 
@@ -86,15 +99,7 @@
 <!-- ========= END SPONSORT BADGE ========= -->
 
 
-<!-- =========  START PUC HEADER GIF ========= -->
 
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
- </p>
-
-
-<br><br><br><br>
-<!-- =========  END PUC HEADER GIF ========= -->
 
 
 
@@ -109,10 +114,6 @@
 
 
 <!-- ===================== START BADGES GROUP 2 ===================== -->
-
-
-
-
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-Artificial%20Intelligence%20Pipeline-0f172a?style=for-the-badge&logo=python&logoColor=white" />
