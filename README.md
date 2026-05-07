@@ -28,25 +28,27 @@
 </p>
 
 <!-- ========= START SECONDARY BADGES ========= -->
+
 <p align="center" style="margin: 0;">
-  
+
   <a href="https://www.canva.com/design/DAHI8GmXZP8/Hxi6FpvjeKvf3em_iXlp2Q/edit" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Beautiful.ai-Deep%20Learning%20Presentation-0f766e?style=for-the-badge&logo=beautifulsoup&logoColor=white" 
-      alt="Beautiful.ai Deep Learning Presentation"
+      src="https://img.shields.io/badge/Canva-Deep%20Learning%20Presentation-0f766e?style=for-the-badge&logo=canva&logoColor=white" 
+      alt="Canva Deep Learning Presentation"
       style="height: 32px; width: auto; margin-right: 8px;"
     />
   </a>
 
- <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Mindful-AI-Assistants/ai-ml-emnist-vision-intelligence-pproject/blob/5119adc130f94eff7ef70de7a90ab8d291be764d/Model%20Analysis.pdf" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github.com/Mindful-AI-Assistants/ai-ml-emnist-vision-intelligence-pproject/blob/5119adc130f94eff7ef70de7a90ab8d291be764d/Model%20Analysis.pdf" 
+      src="https://img.shields.io/badge/Data%20Analysis-Neural%20Network%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
       alt="Neural Network Analysis Report"
       style="height: 32px; width: auto;"
     />
   </a>
 
 </p>
+
 <br><br><br><br>
 <!-- ========= END BADGE ========= -->
 
